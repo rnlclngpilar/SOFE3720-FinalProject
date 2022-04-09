@@ -1,5 +1,5 @@
 # SOFE3720-FinalProject
-Segmenting and Clustering of Neighbourhoods in Toronto
+TORONTO - Segmentation and Clustering of Neighbourhoods
 
 ## 1- Project Description:
 
